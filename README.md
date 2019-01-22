@@ -1,6 +1,10 @@
 # LogAlaHive
 
-MongoOraclePerformanceTest、TomcatLogAla和LogAlaHive这三个都是关于Tomcat日志访问分析的项目，逐渐递进
+- [MongoOraclePerformanceTest](https://github.com/KingWang93/MongoOraclePerformanceTest)、
+- [TomcatLogAla](https://github.com/KingWang93/TomcatLogAla)
+- [LogAlaHive](https://github.com/KingWang93/LogAlaHive)
+
+上述三个项目都是关于Tomcat日志访问分析的项目，逐渐递进
 
 MongoOraclePerformanceTest是基于Oracle做的日志分析，同时该项目还对MondoDb和Oracle做了插入性能测试和查询测试（分别在无索引和有索引的情况下）
 TomcatLogAla是基于纯HDFS（没有Hive,也没有用到Hbase）开发的
