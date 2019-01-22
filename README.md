@@ -1,6 +1,6 @@
 # LogAlaHive
 
-- [MongoOraclePerformanceTest](https://github.com/KingWang93/MongoOraclePerformanceTest)、
+- [MongoOraclePerformanceTest](https://github.com/KingWang93/MongoOraclePerformanceTest)
 - [TomcatLogAla](https://github.com/KingWang93/TomcatLogAla)
 - [LogAlaHive](https://github.com/KingWang93/LogAlaHive)
 
